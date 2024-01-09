@@ -28,5 +28,5 @@ jobs:
       uses: peaceiris/actions-gh-pages@v3
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: dist/resume-portfolio
+        publish_dir: dist/angular-gh-test-1
         enable_jekyll: true
